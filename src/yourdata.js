@@ -21,12 +21,12 @@ export default
        projects:[
            {
             id: 1,//DO NOT CHANGE THIS (Please)😅
-            title:'Bookstore App', //Project Title - Add Your Project Title Here
+            title:'Music Player', //Project Title - Add Your Project Title Here
              service:'CRUD App', // Add Your Service Type Here
             //Project Image - Add Your Project Image Here
-             imageSrc:"https://i.pinimg.com/564x/fd/68/28/fd6828f21ad1d880dec7cc7fced94548.jpg",
+             imageSrc:"https://i.pinimg.com/564x/de/a8/84/dea88453f1c5e6f55b3096fae2cade44.jpg",
              //Project URL - Add Your Project Url Here
-             url:'https://guarded-peak-23548.herokuapp.com/'
+             url:'https://github.com/adeebshah85/reactmusic'
             },
             {
                 id: 2,//DO NOT CHANGE THIS (Please)😅
