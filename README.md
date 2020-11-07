@@ -7,7 +7,7 @@ Demo - https://portnew.netlify.app/
 
 
 
-# The Data can be customised in the src/yourdata.js
+
 
 
 
