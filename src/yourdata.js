@@ -30,9 +30,9 @@ export default
             },
             {
                 id: 2,//DO NOT CHANGE THIS (Please)😅
-                title: 'ToDo App',
+                title: 'Beat Maker',
                 service: 'Website Development',
-                imageSrc: "https://i.pinimg.com/564x/d1/39/9f/d1399fce88b8f248f5dc435b972ca6d3.jpg",
+                imageSrc: "https://i.pinimg.com/564x/20/17/5d/20175d8952c59353f16081f7b63e6cfe.jpg",
                 url: 'https://github.com/adeebshah85'
             },
             { 
@@ -44,8 +44,8 @@ export default
             },
             {
                 id: 4,//DO NOT CHANGE THIS (Please)😅
-                title: 'Journal',
-                service: 'Journal',
+                title: 'Game',
+                service: 'Rock Paper Scissor',
                 imageSrc: "https://i.pinimg.com/564x/b4/6e/6a/b46e6a35d4fab018231446799c8a321c.jpg",
                 url: 'https://github.com/adeebshah85'
            }
